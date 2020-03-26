@@ -2,8 +2,15 @@ import React from 'react';
 
 function Portfolio() {
   return (
-    <div>
-     I hope portfolios will come here 
+    <div id='portfolio'>
+      <ul>
+        <li>
+          <a href='https://github.com/MustafaNawzat/gsu-sfk' target='_blank'>HTML & CSS project 1</a>
+        </li>
+        <li>
+          <a href='https://github.com/oktayibis/wexim-team' target='_blank' >HTML & CSS project 2</a>
+        </li>
+      </ul>
     </div>
   )
 }

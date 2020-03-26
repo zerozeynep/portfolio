@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import '../App.css'
-import {BrowserRouter as Router, Route} from 'react-router-dom'
+import {BrowserRouter , Route} from 'react-router-dom'
 import Welcome from '../Components/Welcome'
 import About from '../Components/About'
 import CV from '../Components/CV'
@@ -23,14 +23,7 @@ class App extends Component {
     return (
       <div>
         <Welcome/>
-        <Router>        
-          <Navbar/>
-          <Route  path='/about' Component={About}/>
-          <Route  path='/cv' Component={CV}/>
-          <Route  path='/portfolio' Component={Portfolio}/>
-          <Route  path='/contact' Component={Contact}/>
-        </Router>
-        
+        <Navbar/>
       </div>
     )
   }
