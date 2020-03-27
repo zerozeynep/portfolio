@@ -1,7 +1,6 @@
 import React from 'react';
 import '../App.css'
 import {MDBTypography, MDBIcon,MDBAnimation, MDBContainer} from 'mdbreact'
-import Navbar from './Navbar'
 
 function Welcome() {
   return (
