@@ -54,7 +54,7 @@ class Navbar extends Component {
               <MDBNavLink to='/about' >About</MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
-              <MDBNavLink to='/cv' >CV</MDBNavLink>
+              <MDBNavLink to='/cv' >CVgit</MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
               <MDBNavLink  to='/portfolio' >Portfolio</MDBNavLink>
