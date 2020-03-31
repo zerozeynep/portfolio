@@ -1,6 +1,6 @@
 import React from 'react';
 import Welcome from '../Components/Welcome'
-import Navbar from '../Components/Navbar'
+import ContentCard from '../Components/ContentCard'
 
 
 
@@ -10,7 +10,7 @@ function App() {
     return (
       <div>
         <Welcome/>
-        <Navbar/>
+        <ContentCard/>
       </div>
     )
   
