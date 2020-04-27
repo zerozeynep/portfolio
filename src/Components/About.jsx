@@ -1,12 +1,12 @@
 import React from 'react';
-import '../App.css';
+import '../Style/App.css';
 
 
 function About() {
   return (
     <div id='about'>
-      We need some about text here ! For now,
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      I'm a business student at Galatasaray University but my path crossed with programming thanks to Re:Coded Web Development Bootcamp. I think i found an important enthusiasm source by learning how to code. Besides the technologies i got familiar with so far (HTML, CSS, JavaScript, React.Js) i am interested in trying & exploring different technologies. There is no limit to learn !
+      I am also actively working and creating projects in civil society field where i found the phenomenal power of collaboration and teamwork. One of my dreams is to implement technology for social good.
     </div>
   )
 }

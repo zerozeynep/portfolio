@@ -1,5 +1,5 @@
 import React from 'react';
-import '../App.css'
+import '../Style/App.css'
 import {MDBTypography, MDBIcon,MDBAnimation, MDBContainer} from 'mdbreact'
 
 function Welcome() {

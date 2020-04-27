@@ -1,9 +1,13 @@
 import React from 'react'
 import { MDBCard, MDBCardTitle, MDBBtn, MDBCardGroup, MDBCardImage, MDBCardText, MDBCardBody } from "mdbreact";
-import '../App.css'
-import staticSite from '../staticWebsiteunDraw.svg'
-import reactSite from '../reactSiteunDraw.svg'
-import jsSite from '../jsSiteUndraw.svg'
+import '../Style/App.css';
+import staticSite from '../Media/staticWebsiteunDraw.svg'
+import reactSite from '../Media/reactSiteunDraw.svg'
+import jsSite from '../Media/jsSiteUndraw.svg'
+
+
+//SVG images by https://undraw.co/
+
 
 const Projects= () => {
   return (
